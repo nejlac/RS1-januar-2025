@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\academicyearendpoints\\academicyeargetallendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\academicyearendpoints\\academicyeargetallendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\studentendpoints\\studentgetbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\studentendpoints\\studentgetbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\wintersemesterendpoints\\createsemesterendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\wintersemesterendpoints\\createsemesterendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\wintersemesterendpoints\\getsemestersbystudentidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\wintersemesterendpoints\\getsemestersbystudentidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\studentendpoints\\studentgetallendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\studentendpoints\\studentgetallendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\data\\models\\tenantspecifictables\\modul2_basic\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\data\\models\\tenantspecifictables\\modul2_basic\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|c:\\users\\hp\\desktop\\rs2\\rs1-2024-25\\rs1_2024_25_template_1\\backend\\rs1_2024_25.api\\endpoints\\studentendpoints\\studentdeleteendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D8E34A-713A-42BB-A5CC-246FA15BD7C0}|RS1_2024_25.API\\RS1_2024_25.API.csproj|solutionrelative:rs1_2024_25.api\\endpoints\\studentendpoints\\studentdeleteendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcademicYearGetAllEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\AcademicYearEndpoints\\AcademicYearGetAllEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\AcademicYearEndpoints\\AcademicYearGetAllEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\AcademicYearEndpoints\\AcademicYearGetAllEndpoint.cs*",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\AcademicYearEndpoints\\AcademicYearGetAllEndpoint.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:38:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentGetByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetByIdEndpoint.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetByIdEndpoint.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:16:54.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateSemesterEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\CreateSemesterEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\CreateSemesterEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\CreateSemesterEndpoint.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\CreateSemesterEndpoint.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAIAwwEoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:57:04.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetSemestersByStudentIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\GetSemestersByStudentIdEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\GetSemestersByStudentIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\GetSemestersByStudentIdEndpoint.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\WinterSemesterEndpoints\\GetSemestersByStudentIdEndpoint.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:14:39.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentGetAllEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetAllEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetAllEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetAllEndpoint.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentGetAllEndpoint.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwC4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:39:04.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Data\\Models\\TenantSpecificTables\\Modul2_Basic\\Student.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Data\\Models\\TenantSpecificTables\\Modul2_Basic\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Data\\Models\\TenantSpecificTables\\Modul2_Basic\\Student.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Data\\Models\\TenantSpecificTables\\Modul2_Basic\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:38:05.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDeleteEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentDeleteEndpoint.cs",
+              "RelativeDocumentMoniker": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentDeleteEndpoint.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\rs2\\rs1-2024-25\\RS1_2024_25_template_1\\backend\\RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentDeleteEndpoint.cs",
+              "RelativeToolTip": "RS1_2024_25.API\\Endpoints\\StudentEndpoints\\StudentDeleteEndpoint.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T15:37:17.97Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
